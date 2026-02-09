@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Xyz",
+            "request": "launch",
+            "mainClass": "Xyz",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Basic1",
+            "request": "launch",
+            "mainClass": "Basic1",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "BubbleSort",

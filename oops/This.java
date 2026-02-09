@@ -1,4 +1,4 @@
-package oops;
+
 public class This {
     int i=5;
     void setValue(int i){
